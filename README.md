@@ -3,6 +3,7 @@
 All of these work locally.
 
 - bailey.txt - a local only budgeting assistant that only works from .csv files. Can search the internet for transaction descriptions but is read-only. Never posts, talks to, or contacts anything.
+- personal web apptrainer developer.txt - an agent that builds personal-only web apps for self professional development.
 - soulmancer.txt - an agent that acts like a consultant to help with writing SOUL.md files.
 - veteran resume coach.txt - an agent that helps U.S. veterans polish their resumes and helps translates military experience into civilian equivalents. Also helps optimize the resume for ATS systems and resume parsers.
 
